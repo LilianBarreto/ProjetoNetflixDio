@@ -113,7 +113,51 @@ header nav a:hover{
 .carrosel-filmes{
     margin-top:5px;
 }
+.rodape .container{
+    margin:0;
+    padding:0;
+   
+}
+.fa {
+    padding: 5px 5px;
+    margin: 5px 5px;
+    font-size: 20px;
+    font-family: arial, Helvetica, sans-serif;
+    font-weight: 100;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    display: grid;
 
+    
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  .fa-yahoo {
+    background: #430297;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-instagram {
+    background: #f77737;
+    color: white;
+  }                  
 
 
 
